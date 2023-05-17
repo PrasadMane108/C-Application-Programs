@@ -1,2 +1,2 @@
 # C-Application-Programs
-Contains application programs for C programming language
+Contains logic based application programs using C programming language.
